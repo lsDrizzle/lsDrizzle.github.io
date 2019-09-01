@@ -21,8 +21,8 @@ body {
   min-height: 100%;
   background: #fff;
   color: #1a1716;
-  font-size: 18px;
-  font-family: Roboto, Arial, Segoe UI, Lato, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
   line-height: 1.6;
 }
 *::-webkit-scrollbar {
@@ -251,7 +251,7 @@ table td {
   padding-top: 1.4rem;
   background: #263238;
   color: #eff;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
   counter-reset: line;
   white-space: pre-wrap;
@@ -274,7 +274,7 @@ blockquote {
   background: rgba(27,31,35,0.05);
   color: #1f2d3d;
   word-wrap: break-word;
-  font-size: 18px;
+  font-size: 20px;
 }
 .article-container pre code {
   padding: 0;
